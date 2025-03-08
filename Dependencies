@@ -1,0 +1,9 @@
+
+---
+
+#### 7️⃣ **Upload the Project to GitHub**  
+Now, follow these steps to upload the project to GitHub:
+
+1. **Initialize Git**  
+   ```sh
+   git init
